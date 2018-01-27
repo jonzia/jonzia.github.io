@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Hail and Well Met, Traveler!
 
-You can use the [editor on GitHub](https://github.com/jonzia/jonzia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm an aspiring physician-scientist based in Atlanta, GA, USA. What does that mean, exactly? Well, it means that I love to code but I knew better than to make it my day job (that wouldn't be doing anybody any favors). On occasion, though, a project comes along that I'm really proud of and I'd like to share it with you! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions and links to their official sites. While my featured repositories are generally the only ones I can get around to updating, feel free to bookmark any of these pages to stay up-to-date with the most recent versions or **[contact me directly](https://www.jonzia.me)** if there's something you with I'd pay more attention to.
 
-### Markdown
+My vast social media empire also includes [Facebook](https://www.facebook.com/jonathanzia), [YouTube](https://www.youtube.com/channel/UCYiktVuCaENeUPtyB5fBQuw/featured?disable_polymer=1), and [LinkedIn](https://www.linkedin.com/in/jonathanzia/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope you find one or more of these repositories helpful and/or inspirational!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Current and Featured Projects
+Robust and validated programs that are updated more frequently... or just what I'm most excited about at the moment.
 
-- Bulleted
-- List
+### LSTM Network (Tensorflow)
+This program is an LSTM network written in Python for Tensorflow. The architecture of the network is fully-customizable within the general framework, namely an LSTM network trained with a truncated BPTT algorithm where the output at each timestep is fed through a fully-connected layer to a variable number of outputs. The error is calculated via `tf.losses.mean_squared_error` and reduced via `tf.train.AdamOptimizer()`.
 
-1. Numbered
-2. List
+Official Site: https://jonzia.github.io/LSTM_Network/
 
-**Bold** and _Italic_ and `Code` text
+### Neural Net Studio (Matlab)
+This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
-[Link](url) and ![Image](src)
-```
+Official Site: https://jonzia.github.io/NeuralNetStudio/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## In the Works
+Check back soon for a drone flight controller program written for Arduino!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonzia/jonzia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Other Projects
+More sparsely-updated projects mainly for experimentation... or just less interesting (*cough* Wordnet *cough*).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Wordnet Data Capture (Java)
+The purpose of this program is to scan the Princeton Wordnet database and store the hyponym and meronym data as well as full hypernym trees such that this data may be analyzed by another program. This program uses the JWI API from MIT to read and translate the Wordnet 3.0 database into workable .txt files for use in applications such as MATLAB. This program was used to build the dataset for the [Codenames AI](https://github.com/jonzia/Codenames) also available on GitHub.
+
+Official Site: https://jonzia.github.io/WordnetDataCapture/
+
+### Object Tracking using OpenCV (C++)
+This program uses the OpenCV computer vision library to filter objects based on color.
+
+Official Site: https://jonzia.github.io/ObjectTracking/
+
+### Object Classification (Matlab)
+This program is a basic implementation of object classification using MATLAB. The current iteration classifies handwritten numbers based on the MNIST dataset (training files included in repository), however it may be modified for different architectures and purposes. After training the neural network (either deep neural network or convolutional neural network) to recognize the digits, the program recognizes digits visible through the computer webcam.
+
+Official Site: https://jonzia.github.io/ObjectClassification/
+
+## Games!
+Sometimes I design programs that play games that I have a hard time winning.
+
+### Codenames AI
+This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
+
+Official Site: https://jonzia.github.io/Codenames/
+
+## Sudoku Solver
+Written on an airplane when I couldn't find the answer page in the magazine. Also on [YouTube](https://youtu.be/QC-4RXylWQ0) because why not?
+
+Official Site: https://jonzia.github.io/Sudoku/
