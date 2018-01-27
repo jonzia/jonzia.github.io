@@ -22,9 +22,8 @@ This program trains and analyzes recurrent neural networks (RNNs) as well as non
 
 Official Site: https://jonzia.github.io/NeuralNetStudio/
 
-
-## In the Works
-Check back soon for a drone flight controller program written for Arduino!
+### Drone Flight Controller (Arduino)
+Check back soon!
 
 
 ## Other Projects
