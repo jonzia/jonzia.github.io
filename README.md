@@ -2,7 +2,7 @@
 
 I'm an aspiring physician-scientist based in Atlanta, GA, USA. What does that mean, exactly? Well, it means that I love to code but I knew better than to make it my day job (that wouldn't be doing anybody any favors). On occasion, though, a project comes along that I'm really proud of and I'd like to share it with you! 
 
-You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions and links to their official sites. While my featured repositories are generally the only ones I can get around to updating, feel free to bookmark any of these pages to stay up-to-date with the most recent versions or **[contact me directly](https://www.jonzia.me)** if there's something you with I'd pay more attention to.
+You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions and links to their official sites. While my featured repositories are generally the only ones I can get around to updating, feel free to bookmark any of these pages to stay up-to-date with the most recent versions or **[contact me directly](https://www.jonzia.me)** if there's something you wish I'd pay more attention to.
 
 My vast social media empire also includes [Facebook](https://www.facebook.com/jonathanzia), [YouTube](https://www.youtube.com/channel/UCYiktVuCaENeUPtyB5fBQuw/featured?disable_polymer=1), and [LinkedIn](https://www.linkedin.com/in/jonathanzia/).
 
@@ -45,7 +45,7 @@ This program is a basic implementation of object classification using MATLAB. Th
 **[Official Site](https://jonzia.github.io/ObjectClassification/)**
 
 ## Games!
-Sometimes I design programs that play games that I have a hard time winning.
+Sometimes I design programs for games that I have a hard time winning.
 
 #### Codenames AI (Matlab)
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
