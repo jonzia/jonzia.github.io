@@ -48,12 +48,12 @@ Official Site: https://jonzia.github.io/ObjectClassification/
 ## Games!
 Sometimes I design programs that play games that I have a hard time winning.
 
-### Codenames AI
+### Codenames AI (Matlab)
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
 
 Official Site: https://jonzia.github.io/Codenames/
 
-## Sudoku Solver
+## Sudoku Solver (Matlab)
 Written on an airplane when I couldn't find the answer page in the magazine. Also on [YouTube](https://youtu.be/QC-4RXylWQ0) because why not?
 
 Official Site: https://jonzia.github.io/Sudoku/
