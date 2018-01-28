@@ -27,7 +27,7 @@ Check back soon!
 
 
 ## Other Projects
-More sparsely-updated projects mainly for experimentation... or just less interesting (*cough* Wordnet *cough*).
+More sparsely-updated projects mainly for experimentation... or just less interesting.
 
 #### Wordnet Data Capture (Java)
 The purpose of this program is to scan the Princeton Wordnet database and store the hyponym and meronym data as well as full hypernym trees such that this data may be analyzed by another program. This program uses the JWI API from MIT to read and translate the Wordnet 3.0 database into workable .txt files for use in applications such as MATLAB. This program was used to build the dataset for the [Codenames AI](https://github.com/jonzia/Codenames) also available on GitHub.
