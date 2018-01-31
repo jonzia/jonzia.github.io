@@ -2,7 +2,7 @@
 
 I'm an aspiring physician-scientist based in Atlanta, GA, USA. What does that mean, exactly? Well, it means that I love to code but I knew better than to make it my day job (that wouldn't be doing anybody any favors). On occasion, though, a project comes along that I'm really proud of and I'd like to share it with you! 
 
-You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions and links to their documentation. While my featured repositories are generally the only ones I can get around to updating, feel free to bookmark any of these pages to stay up-to-date with the most recent versions or **[contact me directly](https://www.jonzia.me)** if there's something you wish I'd pay more attention to.
+You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, or related blog entries where I discuss the design process. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions!
 
 My vast social media empire also includes [Facebook](https://www.facebook.com/jonathanzia), [YouTube](https://www.youtube.com/channel/UCYiktVuCaENeUPtyB5fBQuw/featured?disable_polymer=1), and [LinkedIn](https://www.linkedin.com/in/jonathanzia/).
 
@@ -13,17 +13,19 @@ I hope you find one or more of these repositories helpful and/or inspirational!
 Robust and validated programs that are updated more frequently... or just what I'm most excited about at the moment.
 
 #### LSTM Network (Tensorflow)
-This program is an LSTM network written in Python for Tensorflow. The architecture of the network is fully-customizable within the general framework, namely an LSTM network trained with a truncated BPTT algorithm where the output at each timestep is fed through a fully-connected layer to a variable number of outputs. The error is calculated via `tf.losses.mean_squared_error` and reduced via `tf.train.AdamOptimizer()`.
+This program is an LSTM network written in Python for Tensorflow. The architecture of the network is fully-customizable within the general framework, namely an LSTM network trained with a truncated BPTT algorithm where the output at each timestep is fed through a fully-connected layer to a variable number of outputs.
 
-**[Documentation](https://jonzia.github.io/LSTM_Network/)**
+**[Documentation](https://jonzia.github.io/LSTM_Network/)** | **[Blog](https://www.jonzia.me/projects/fog-problem)**
 
 #### Neural Net Studio (Matlab)
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
-**[Documentation](https://jonzia.github.io/NeuralNetStudio/)**
+**[Documentation](https://jonzia.github.io/NeuralNetStudio/)** | **[Blog](https://www.jonzia.me/projects/neural-net-studio)**
 
 #### Drone Flight Controller (Arduino)
 Check back soon!
+
+**[Blog](https://www.jonzia.me/projects/flight-controller)**
 
 
 ## Other Projects
