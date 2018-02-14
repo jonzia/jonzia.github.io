@@ -15,7 +15,7 @@ Robust and validated programs that are updated more frequently... or just what I
 #### LSTM Network (Tensorflow)
 This program is an LSTM network written in Python for Tensorflow. The architecture of the network is fully-customizable within the general framework, namely an LSTM network trained with a truncated BPTT algorithm where the output at each timestep is fed through a fully-connected layer to a variable number of outputs.
 
-**[Documentation](https://jonzia.github.io/LSTM_Network/)** | **[Blog](https://www.jonzia.me/projects/fog-problem)**
+**[Documentation](https://jonzia.github.io/LSTM_Network/)** | **[Blog](https://www.jonzia.me/projects/lstm-tensorflow)**
 
 #### Neural Net Studio (Matlab)
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
