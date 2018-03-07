@@ -23,13 +23,18 @@ This program trains and analyzes recurrent neural networks (RNNs) as well as non
 **[Documentation](https://jonzia.github.io/NeuralNetStudio/)** | **[Blog](https://www.jonzia.me/projects/neural-net-studio)**
 
 #### Drone Flight Controller (Arduino)
-Check back soon!
+Check back soon! This project will utilize reinforcement learning as the basis for a flight controller.
 
 **[Blog](https://www.jonzia.me/projects/flight-controller)**
 
 
 ## Other Projects
 More sparsely-updated projects mainly for experimentation... or just less interesting.
+
+#### Recurrent Autoencoder (Tensorflow)
+This program implements a recurrent autoencoder for time-series analysis. The input to the program is a .csv file with feature columns. The time-series input is encoded with a single LSTM layer and decoded with a second LSTM layer to recreate the input. The output of the encoder layer feeds in to a single latent layer, which contains a compressed representation of the feature vector.
+
+**[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** 
 
 #### Wordnet Data Capture (Java)
 The purpose of this program is to scan the Princeton Wordnet database and store the hyponym and meronym data as well as full hypernym trees such that this data may be analyzed by another program. This program uses the JWI API from MIT to read and translate the Wordnet 3.0 database into workable .txt files for use in applications such as MATLAB. This program was used to build the dataset for the [Codenames AI](https://github.com/jonzia/Codenames) also available on GitHub.
@@ -48,6 +53,9 @@ This program is a basic implementation of object classification using MATLAB. Th
 
 ## Games!
 Sometimes I design programs for games that I have a hard time winning.
+
+#### Chess AI (Tensorflow)
+Check back soon! This project will use reinforcement learning to develop a chess program.
 
 #### Codenames AI (Matlab)
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
