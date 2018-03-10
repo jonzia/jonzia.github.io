@@ -15,12 +15,12 @@ Robust and validated programs that are updated more frequently... or just what I
 #### LSTM Network (Tensorflow)
 This program is an LSTM network written in Python for Tensorflow. The architecture of the network is fully-customizable within the general framework, namely an LSTM network trained with a truncated BPTT algorithm where the output at each timestep is fed through a fully-connected layer to a variable number of outputs.
 
-**[Documentation](https://jonzia.github.io/LSTM_Network/)** | **[Blog](https://www.jonzia.me/projects/lstm-tensorflow)**
+**[Documentation](https://jonzia.github.io/LSTM_Network/)** || **[Blog](https://www.jonzia.me/projects/lstm-tensorflow)**
 
 #### Neural Net Studio (Matlab)
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
-**[Documentation](https://jonzia.github.io/NeuralNetStudio/)** | **[Blog](https://www.jonzia.me/projects/neural-net-studio)**
+**[Documentation](https://jonzia.github.io/NeuralNetStudio/)** || **[Blog](https://www.jonzia.me/projects/neural-net-studio)**
 
 #### Recurrent Autoencoder (Tensorflow)
 This program implements a recurrent autoencoder for time-series analysis. The input to the program is a .csv file with feature columns. The time-series input is encoded with a single LSTM layer and decoded with a second LSTM layer to recreate the input. The output of the encoder layer feeds in to a single latent layer, which contains a compressed representation of the feature vector.
