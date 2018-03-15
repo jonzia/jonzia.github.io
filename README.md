@@ -25,7 +25,7 @@ This program trains and analyzes recurrent neural networks (RNNs) as well as non
 #### Recurrent Autoencoder (Tensorflow)
 This program implements a recurrent autoencoder for time-series analysis. The input to the program is a .csv file with feature columns. The time-series input is encoded with a single LSTM layer and decoded with a second LSTM layer to recreate the input. The output of the encoder layer feeds in to a single latent layer, which contains a compressed representation of the feature vector.
 
-**[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** 
+**[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** // **[Blog](https://www.jonzia.me/projects/recurrent-autoencoder)**
 
 ## Other Projects
 More sparsely-updated projects mainly for experimentation... or just less interesting.
