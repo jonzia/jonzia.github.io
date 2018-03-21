@@ -33,7 +33,7 @@ More sparsely-updated projects mainly for experimentation... or just less intere
 #### Drone Flight Controller (Arduino)
 Check back soon! This project will utilize reinforcement learning as the basis for a flight controller.
 
-**[Blog](https://www.jonzia.me/projects/flight-controller)**
+**Documentation** // **[Blog](https://www.jonzia.me/projects/flight-controller)**
 
 #### Wordnet Data Capture (Java)
 The purpose of this program is to scan the Princeton Wordnet database and store the hyponym and meronym data as well as full hypernym trees such that this data may be analyzed by another program. This program uses the JWI API from MIT to read and translate the Wordnet 3.0 database into workable .txt files for use in applications such as MATLAB. This program was used to build the dataset for the [Codenames AI](https://github.com/jonzia/Codenames) also available on GitHub.
@@ -56,7 +56,7 @@ Sometimes I design programs for games that I have a hard time winning.
 #### Chess AI (Tensorflow)
 This program learns to play chess via reinforcement learning. The action-value functions are learned by training a neural network on the total return of randomly-initialized board states, determined by Monte Carlo simulations. The program follows an epsilon-greedy policy based on the most current action-value function approximations.
 
-**[Documentation](https://jonzia.github.io/Chess_RL/)**
+**[Documentation](https://jonzia.github.io/Chess_RL/)** // **[Blog](https://www.jonzia.me/projects/chess-reinforcement-learning)**
 
 #### Codenames AI (Matlab)
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
