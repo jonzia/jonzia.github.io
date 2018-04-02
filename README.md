@@ -20,7 +20,7 @@ This program is an LSTM network written in Python for Tensorflow.
 #### Neural Net Studio (Matlab)
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
-**[Documentation](https://jonzia.github.io/NeuralNetStudio/)** // **[Blog](https://www.jonzia.me/projects/neural-net-studio)**
+**[Documentation](https://jonzia.github.io/NeuralNetStudio/)** // **Blog** (Temporarily Deactivated)
 
 #### Recurrent Autoencoder (Tensorflow)
 This program implements a recurrent autoencoder for time-series analysis.
