@@ -1,6 +1,6 @@
 ## Hail and Well Met, Traveler!
 
-I'm an aspiring physician-scientist based in Atlanta, GA, USA. That means that I love to code, but I know better than to make it my day job (that wouldn't be doing anybody any favors). On occasion, though, a project comes along that I'm really proud of and I'd like to share it with you! 
+I'm an aspiring physician-scientist based in Atlanta, GA, USA. That means that I love to code, but I know better than to make it my day job. On occasion, though, a project comes along that I'm really proud of and I'd like to share with you! 
 
 You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, or related blog entries where I discuss the design process. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions!
 
