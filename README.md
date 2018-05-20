@@ -40,16 +40,6 @@ The purpose of this program is to scan the Princeton Wordnet database and store 
 
 // **[Documentation](https://jonzia.github.io/WordnetDataCapture/)** //
 
-#### Object Tracking using OpenCV (C++)
-This program uses the OpenCV computer vision library to filter objects based on color.
-
-// **[Documentation](https://jonzia.github.io/ObjectTracking/)** //
-
-#### Object Classification (Matlab)
-This program is a basic implementation of object classification using MATLAB. The current iteration classifies handwritten numbers based on the MNIST dataset (training files included in repository), however it may be modified for different architectures and purposes. After training the neural network (either deep neural network or convolutional neural network) to recognize the digits, the program recognizes digits visible through the computer webcam.
-
-// **[Documentation](https://jonzia.github.io/ObjectClassification/)** //
-
 ## Games!
 Sometimes I design programs for games that I have a hard time winning.
 
