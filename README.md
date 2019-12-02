@@ -6,6 +6,8 @@ You can check out all my projects on my (admittedly sparsely-updated) **[GitHub 
 
 I hope you find one or more of these repositories helpful!
 
+---
+---
 ## Machine Learning Templates
 Various template scripts for performing machine learning tasks.
 
@@ -26,7 +28,8 @@ This program implements a recurrent autoencoder for time-series analysis.
 
 // **[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** //
 
-
+---
+---
 ## Games!
 Sometimes I design programs for games that I have a hard time winning.
 
@@ -47,6 +50,8 @@ Written on an airplane when I couldn't find the answer page in the magazine. Als
 
 // **[Documentation](https://jonzia.github.io/Sudoku/)** // **[Demo](https://youtu.be/QC-4RXylWQ0)** //
 
+---
+---
 ## Other Projects
 Random other projects related to my work and hobbies.
 
@@ -70,3 +75,5 @@ Check back soon! This project will utilize reinforcement learning as the basis f
 The purpose of this program is to scan the Princeton Wordnet database and store the hyponym and meronym data as well as full hypernym trees such that this data may be analyzed by another program. This program uses the JWI API from MIT to read and translate the Wordnet 3.0 database into workable .txt files for use in applications such as MATLAB. This program was used to build the dataset for the [Codenames AI](https://github.com/jonzia/Codenames) also available on GitHub.
 
 // **[Documentation](https://jonzia.github.io/WordnetDataCapture/)** //
+
+---
