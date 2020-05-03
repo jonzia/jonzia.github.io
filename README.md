@@ -36,9 +36,9 @@ Sometimes I design programs for games that I have a hard time winning.
 #### Catan RL (Matlab)
 This program learns to play Settlers of Catan via reinforcement learning. The quality function is learned by training a neural network to map board states generated from Monte Carlo simulations to the ultimate number of victory points achieved by the player. The program follows an epsilon-greedy function based on the most current quality function approxmation.
 
----
 // **[Documentation](https://jonzia.github.io/Catan/)** //
 
+---
 #### Chess RL (Tensorflow)
 This program learns to play chess via reinforcement learning. The action-value functions are learned by training a neural network on the total return of randomly-initialized board states, determined by Monte Carlo simulations. The program follows an epsilon-greedy policy based on the most current action-value function approximations.
 
