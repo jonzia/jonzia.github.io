@@ -33,6 +33,12 @@ This program implements a recurrent autoencoder for time-series analysis.
 ## Games!
 Sometimes I design programs for games that I have a hard time winning.
 
+#### Catan RL (Matlab)
+This program learns to play Settlers of Catan via reinforcement learning. The quality function is learned by training a neural network to map board states generated from Monte Carlo simulations to the ultimate number of victory points achieved by the player. The program follows an epsilon-greedy function based on the most current quality function approxmation.
+
+---
+// **[Documentation](https://jonzia.github.io/Catan/)** //
+
 #### Chess RL (Tensorflow)
 This program learns to play chess via reinforcement learning. The action-value functions are learned by training a neural network on the total return of randomly-initialized board states, determined by Monte Carlo simulations. The program follows an epsilon-greedy policy based on the most current action-value function approximations.
 
@@ -59,12 +65,6 @@ Random other projects related to my work and hobbies.
 A simple project which uses reinforcement learning to teach networked agents to perform herding tasks. This software was designed for simulation in Matlab and implementation in the Robotarium laboratory at Georgia Tech.
 
 // **[Documentation + Demos](https://jonzia.github.io/Robotarium/)** //
-
----
-#### Cardio Library (Matlab)
-This is a Matlab library for processing cardiac bio-signals, and contains public releases as part of my research at the Inan Research Lab at Georgia tech.
-
-// **[Documentation](https://jonzia.github.io/Cardio/)** //
 
 ---
 #### Drone Flight Controller (Arduino)
