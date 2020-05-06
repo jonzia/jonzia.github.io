@@ -51,12 +51,6 @@ This program generates clues based on either 8 or 9 words entered by the user. T
 // **[Documentation](https://jonzia.github.io/Codenames/)** // **[Demo](https://youtu.be/yX2YkhvAtM4)** //
 
 ---
-### Sudoku Solver (Matlab)
-Written on an airplane when I couldn't find the answer page in the magazine. Also on [YouTube](https://youtu.be/QC-4RXylWQ0) because why not?
-
-// **[Documentation](https://jonzia.github.io/Sudoku/)** // **[Demo](https://youtu.be/QC-4RXylWQ0)** //
-
----
 ---
 ## Other Projects
 Random other projects related to my work and hobbies.
