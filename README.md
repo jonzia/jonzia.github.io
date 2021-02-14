@@ -2,7 +2,7 @@
 
 I'm an aspiring physician-scientist based in Atlanta, GA, USA. Though I'm an electrical engineer by day, my coding hobbies involve creating A.I.-powered bots for multiplayer games and occasionally publishing various machine learning templates I create in the course of my work.
 
-You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, and videos. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions! My vast social media empire also includes [Facebook](https://www.facebook.com/jonathanzia), [YouTube](https://www.youtube.com/channel/UCYiktVuCaENeUPtyB5fBQuw/featured?disable_polymer=1), and [LinkedIn](https://www.linkedin.com/in/jonathanzia/).
+You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, and videos. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions!
 
 I hope you find one or more of these repositories helpful!
 
