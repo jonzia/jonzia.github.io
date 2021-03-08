@@ -12,21 +12,33 @@ I hope you find one or more of these repositories helpful!
 Various template scripts for performing machine learning tasks.
 
 #### Neural Net Studio (Matlab)
-This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores.
+This (really old!) program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores.
 
 // **[Documentation](https://jonzia.github.io/NeuralNetStudio/)** // **[Demo](https://www.youtube.com/watch?v=WBxCHDFzexQ)** //
 
 ---
 #### LSTM Network (Tensorflow)
-This program is an LSTM network written in Python for Tensorflow.
+This (really old!) program is an LSTM network written in Python for Tensorflow.
 
 // **[Documentation](https://jonzia.github.io/LSTM_Network/)** // **[Demo](https://youtu.be/DSzegLte0Iw)** //
 
 ---
 #### Recurrent Autoencoder (Tensorflow)
-This program implements a recurrent autoencoder for time-series analysis.
+This program implements a recurrent autoencoder for time-series analysis. Useful as a buidling block for higher-level nonlinear dynamical systems modeling.
 
 // **[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** //
+
+---
+#### Graphical Modeling (Matlab)
+Framework for designing, solving, and implementing probabilistic graphical models for statistical modeling.
+
+// **[Documentation](https://github.com/jonzia/GraphicalModeling/)** //
+
+---
+#### Genetic Algorithms (Matlab)
+This program implements a genetic algorithm with the use-case of sorting a shuffled dataset. Useful as a building-block for higher-level genetic algorithms, with some advanced features such as multithreading with genetic migration between separate populations built in.
+
+// **[Documentation](https://github.com/jonzia/GeneticSort/)** //
 
 ---
 ---
