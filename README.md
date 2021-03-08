@@ -1,8 +1,6 @@
 ## About Me
 
-I'm an aspiring physician-scientist based in Atlanta, GA, USA. Though I'm an electrical engineer by day, my coding hobbies involve creating A.I.-powered bots for multiplayer games and occasionally publishing various machine learning templates I create in the course of my work.
-
-You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, and videos. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions!
+I'm an aspiring physician-scientist based in Atlanta, GA, USA. My coding hobbies involve creating A.I.-powered bots for multiplayer games and occasionally publishing various machine learning templates I create in the course of my research. You can check out all my projects on my (admittedly sparsely-updated) **[GitHub Profile](https://github.com/jonzia)** -- or simply scroll down for project descriptions, documentation, and videos. Feel free to **[contact me directly](https://www.jonzia.me)** for comments and questions!
 
 I hope you find one or more of these repositories helpful!
 
@@ -12,21 +10,21 @@ I hope you find one or more of these repositories helpful!
 Various template scripts for performing machine learning tasks.
 
 #### Neural Net Studio (Matlab)
-This (really old!) program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores.
+This (*really old!*) program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks. It works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores. This code was used to create the attached research paper, an early example of using machine learning to predict freezing of gait in Parkinson's patients.
 
-// **[Documentation](https://jonzia.github.io/NeuralNetStudio/)** // **[Demo](https://www.youtube.com/watch?v=WBxCHDFzexQ)** //
+// **[Documentation](https://jonzia.github.io/NeuralNetStudio/)** // **[Demo](https://www.youtube.com/watch?v=WBxCHDFzexQ)** // **[Paper](https://www.researchgate.net/publication/309339519_Utilizing_Neural_Networks_to_Predict_Freezing_of_Gait_in_Parkinson's_Patients)** //
 
 ---
 #### LSTM Network (Tensorflow)
-This (really old!) program is an LSTM network written in Python for Tensorflow.
+This (*really old!*) program is an LSTM network written in Python for Tensorflow.
 
 // **[Documentation](https://jonzia.github.io/LSTM_Network/)** // **[Demo](https://youtu.be/DSzegLte0Iw)** //
 
 ---
 #### Recurrent Autoencoder (Tensorflow)
-This program implements a recurrent autoencoder for time-series analysis. Useful as a buidling block for higher-level nonlinear dynamical systems modeling.
+This program implements a recurrent autoencoder for time-series analysis. Useful as a buidling block for higher-level nonlinear dynamical systems modeling. An example implementation based on a more complex version of this program is shown in the attached research paper, which models the cardiovascular system as a nonlinear dynamical system to interpret cardiomechanical signals.
 
-// **[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** //
+// **[Documentation](https://jonzia.github.io/Recurrent_Autoencoder/)** // **[Paper](https://www.researchgate.net/publication/339979069_Modeling_Consistent_Dynamics_of_Cardiogenic_Vibrations_in_Low-Dimensional_Subspace)** //
 
 ---
 #### Graphical Modeling (Matlab)
@@ -42,15 +40,15 @@ This program implements a genetic algorithm with the use-case of sorting a shuff
 
 ---
 #### Unsupervised Clustering (Matlab)
-This program implements unsupervised clustering via Gaussian mixture modeling (GMM).
+This program implements unsupervised clustering via Gaussian mixture modeling (GMM). This code was used to create the attached research paper, which uses a statistical approach to identify consistent time-domain features in dynamic, stochastic signals.
 
-// **[Documentation](https://jonzia.github.io/GeneticSort/)** //
+// **[Documentation](https://jonzia.github.io/GeneticSort/)** // **[Paper](https://www.researchgate.net/publication/335795238_Automated_Identification_of_Persistent_Time-Domain_Features_in_Seismocardiogram_Signals)** //
 
 ---
 #### Manifold Mapping (Matlab)
-This program implements the ISOMAP algorithm for mapping a low-dimensional manifold of datapoints.
+This program implements the ISOMAP algorithm for mapping a low-dimensional manifold of datapoints. This code was used to create the attached research paper, which analyzes the underlying low-dimensional dynamics of cardiomechanical signals.
 
-// **[Documentation](https://jonzia.github.io/Manifold/)** //
+// **[Documentation](https://jonzia.github.io/Manifold/)** // **[Paper](https://www.researchgate.net/publication/343446322_Harnessing_the_Manifold_Structure_of_Cardiomechanical_Signals_for_Physiological_Monitoring_during_Hemorrhage)** //
 
 ---
 ---
@@ -70,7 +68,7 @@ This program learns to play chess via reinforcement learning. The action-value f
 
 ---
 #### Codenames AI (Matlab)
-This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database. You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
+This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database, which seeds a dependency graph that may later be tuned via reinforcement learning (not yet implemented). You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
 
 // **[Documentation](https://jonzia.github.io/Codenames/)** // **[Demo](https://youtu.be/yX2YkhvAtM4)** //
 
