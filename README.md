@@ -32,13 +32,25 @@ This program implements a recurrent autoencoder for time-series analysis. Useful
 #### Graphical Modeling (Matlab)
 Framework for designing, solving, and implementing probabilistic graphical models for statistical modeling.
 
-// **[Documentation](https://github.com/jonzia/GraphicalModeling/)** //
+// **[Documentation](https://jonzia.github.io/GraphicalModeling/)** //
 
 ---
 #### Genetic Algorithms (Matlab)
 This program implements a genetic algorithm with the use-case of sorting a shuffled dataset. Useful as a building-block for higher-level genetic algorithms, with some advanced features such as multithreading with genetic migration between separate populations built in.
 
 // **[Documentation](https://github.com/jonzia/GeneticSort/)** //
+
+---
+#### Unsupervised Clustering (Matlab)
+This program implements unsupervised clustering via Gaussian mixture modeling (GMM).
+
+// **[Documentation](https://jonzia.github.io/GeneticSort/)** //
+
+---
+#### Manifold Mapping (Matlab)
+This program implements the ISOMAP algorithm for mapping a low-dimensional manifold of datapoints.
+
+// **[Documentation](https://jonzia.github.io/Manifold/)** //
 
 ---
 ---
