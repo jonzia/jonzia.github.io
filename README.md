@@ -30,7 +30,7 @@ This program implements a recurrent autoencoder for time-series analysis. Useful
 
 ---
 #### Graphical Modeling (Matlab)
-Framework for designing, solving, and implementing probabilistic graphical models for statistical modeling.
+Framework for designing, solving, and implementing probabilistic graphical models for statistical modeling. Includes features such as message passing, variable elimination, recursive solving of factor graphs, and solving hidden Markov models (HMMs) via the Viterbi algorithm.
 
 // **[Documentation](https://jonzia.github.io/GraphicalModeling/)** //
 
