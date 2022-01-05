@@ -42,7 +42,7 @@ This program learns to play chess via reinforcement learning. The action-value f
 #### Codenames (Matlab ~ **[Documentation](https://jonzia.github.io/Codenames/)**, **[Demo](https://youtu.be/yX2YkhvAtM4)**)
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database, which seeds a dependency graph that may later be tuned via reinforcement learning (not yet implemented). You can check out a demo of the program on [YouTube](https://youtu.be/yX2YkhvAtM4)!
 
-#### Monopoly (Matlab ~ **[Documentation](https://github.com/jonzia/Monopoly)**)
+#### Monopoly (Matlab ~ **[Documentation](https://jonzia.github.io/Monopoly)**)
 This Matlab package contains the necessary objects, functions, and scripts for training autonomous agents to play the board game Monopoly via reinforcement learning. This includes functionality for running Monte Carlo simulations of Monopoly games using either a random policy or an epsilon-greedy policy on a specified value function. The trained models may then be used with the provided interface.mlx script for implementation in player v. computer matches.
 
 #### Scrabble (Matlab ~ **[Documentation](https://github.com/jonzia/Scrabble)**)
