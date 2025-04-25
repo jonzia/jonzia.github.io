@@ -49,4 +49,4 @@ Research
 </tr>
 </table>
 
-*Photo Credit: Poorly Drawn Lines by Reza Farazmand*
+*Last Updated: April 25, 2025*
