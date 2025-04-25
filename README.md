@@ -10,32 +10,38 @@ I am a neurology resident at Stanford University. I graduated from Emory Univers
 <img width="441" height="1">
 <p> 
 <small>
-<a href="https://scholar.google.com/citations?user=98YMxgIAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+Social
 </small>
 </p>
 </th>
-  
 <th align="center">
 <img width="441" height="1">
 <p> 
 <small>
+Research
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/jonathanzia">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</small>
-</p>
-</th>
-
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-<a href="https://github.com/jonzia">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</small>
-</p>
-</th>
-  
+</td>
+<td align="center">
+<a href="https://scholar.google.com/citations?user=98YMxgIAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/channel/UCYiktVuCaENeUPtyB5fBQuw">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</td>
+<td align="center">
+<a href="https://www.researchgate.net/profile/Jonathan-Zia-2">
+<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+</td>
 </tr>
 </table>
 
